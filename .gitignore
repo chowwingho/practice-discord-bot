@@ -1,0 +1,21 @@
+# Environment variables (will contain secrets!)
+.env
+
+# Python stuff (if using Python)
+__pycache__/
+*.pyc
+venv/
+.venv/
+env/
+
+# Node stuff (if using JavaScript)
+node_modules/
+package-lock.json
+
+# OS stuff
+.DS_Store
+Thumbs.db
+
+# IDE stuff
+.vscode/
+.idea/
